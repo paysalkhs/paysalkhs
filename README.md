@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @paysalkhs
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Reactjs, React Native, Flutter, Mssql
+- 📫 Reach me at email : paysalnk@gmail.com
